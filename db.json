@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Benjamin",
+      "image": "www.benjamin.com",
+      "price": "9.94",
+      "id": 8
     }
   ]
 }
